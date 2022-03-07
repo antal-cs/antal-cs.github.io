@@ -1,0 +1,80 @@
+div	{
+	position: relative;
+	}
+
+div.tableContainer {
+	height: 640px; 	/* must be greater than tbody*/
+	width: 100%;
+	overflow: auto;
+/*  position: absolute; */
+	}
+	
+table	{
+	border-spacing:0;
+	border: 0;
+	align: center;
+	}
+
+/* define width of table. IE browsers only                 */
+div.tableContainer table {
+	float: left;
+}
+
+div.tableContainer table>tbody.scrollContent {
+	height: 640px;
+	overflow-x: hidden;
+	}
+
+a {text-decoration:underline}
+
+#txtlista1 {
+	width:788px;
+	height:17px;
+	padding:0px;
+	background-color:#FFFFFF;
+	text-decoration: none;
+/* $backgrcolor1="#E8E8E8",FFFFFF                 */
+	}
+
+#txtlista0 {
+	width:788px;
+	height:17px;
+	padding:0px;
+	background-color:#F1F5FA;
+	text-decoration: none;
+/* $backgrcolor0="#FAFAFA",F1F5FA                 */
+	}
+
+.kep {
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 13px;
+	font-style: normal;
+}
+.kepgray {
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 13px;
+	font-style: normal;
+	color: #fff;
+}
+.cim {
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 14px;
+	font-style: normal;
+	text-align: center;
+}
+.kep11 {
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 11px;
+	font-style: normal;
+}
+.kep12 {
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 12px;
+	font-style: normal;
+}
+.kepz a {
+	color: #090;
+}
+.kepblack a {
+	color: #000;
+}
