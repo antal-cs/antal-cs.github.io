@@ -1,0 +1,241 @@
+html, body {
+height: 100%;
+margin-top: 0px;
+}
+.cim20 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	text-align: left;
+}
+.cim_research {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 30px;
+	font-style: normal;
+	text-align: left;
+	color: #AAAAAA;
+}
+.lims11 {
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 11px;
+	font-style: normal;
+}
+.home14 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	text-align: justify;
+	line-height: 150%;
+}
+.home14l {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	text-align: left;
+	line-height: 125%;
+	padding-left: 10px;
+}
+.home10l {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	text-align: left;
+	line-height: 125%;
+	padding-left: 10px;
+}
+.home12l {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-align: left;
+	line-height: 125%;
+	padding-left: 10px;
+}
+.home16l {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	text-align: left;
+	line-height: 125%;
+	padding-left: 10px;
+}
+.home13 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+}
+.home16 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	text-align: left;
+	line-height: 150%;
+}
+.research15 {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	text-align: left;
+	line-height: 140%;
+}
+.publicat {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	text-align: left;
+	line-height: 125%;
+}
+.limsdatatxt {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 135%;
+}
+.menu {
+	width: 170px;
+	padding: 0px 0px 0px 0px;
+	vertical-align: top;
+	background-color: #FFFFFF;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 16px;
+	font-weight: bold;
+}
+.menu ul {
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+.menu li {
+	position: relative;
+	display: block;
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: 0px;
+	height: 34px;
+	float: left;
+}
+.menu ul a {
+	display: block;
+	padding: 0px;
+	width: 170px;
+	height: 34px;
+}
+.menu ul a span {
+}
+
+.menulink a {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-decoration: none;
+	padding-left: 20px !important;
+	width: 150px !important;
+	padding-top: 8px !important;
+	height: 26px !important;
+}
+.menulink a:hover {
+	text-decoration: none;
+	background-color: #F3F3F3;
+}
+.menulink_selected a {
+	background-color: #F3F3F3;
+	color: #000000;
+	text-decoration: none;
+	padding-left: 27px !important;
+	width: 143px !important;
+	padding-top: 2px !important;
+	height: 32px !important;
+}
+.menulink_selected a:hover {
+	text-decoration: none;
+	background-color: #F3F3F3;
+}
+
+.menulink_select a {
+	background-color: #FFFFFF;
+	color: #000000;
+	text-decoration: none;
+	padding-left: 27px !important;
+	width: 143px !important;
+	padding-top: 2px !important;
+	height: 32px !important;
+}
+.menulink_select a:hover {
+	text-decoration: none;
+	background-color: #F3F3F3;
+}
+
+.linkfs a {
+	text-decoration: none;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-align: left;
+}
+.linkfs a:hover {
+	color: #000;
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	text-align: left;
+	text-decoration: underline;
+}
+
+#txtlista07 {
+	width:536px;
+	height:17px;
+	padding:0px;
+	background-color:#1A83DE;
+	color: #FFF;
+	text-decoration: none;
+/* $backgrcolor0="#FAFAFA",F1F5FA                 */
+	}
+
+.linktxt07 a {
+	text-decoration: none;
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	text-align: left;
+	color: #1A83DE;
+}
+.linktxt07 a:hover {
+	color: #000;
+	font-family: "Lucida Grande", Tahoma;
+	font-size: 12px;
+	font-style: normal;
+	text-align: left;
+	text-decoration: underline;
+}
+.table_back1 {
+    background-image: url(kemcso.jpg);
+    background-repeat: no-repeat;
+    background-size: 426px 604px;
+	background-position: center;
+}
+
+.lims_table {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	text-align : left;
+}
+.lims_table_cim {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 13px;
+	font-style: normal;
+	text-align : center;
+	color: #5E5B50;
+}
+.lims_table td {
+	border: 1px solid #29667B;
+}
+.lims_tableheader {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	text-align : center;
+	color: #FFFFFF;
+}
+.lims_tableheader td {
+	border: 1px solid white;
+}
