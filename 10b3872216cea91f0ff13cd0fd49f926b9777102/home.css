@@ -2,6 +2,43 @@ html, body {
 height: 100%;
 margin-top: 0px;
 }
+.fig2 {
+	display: block;
+	background-image: url("fig2_400x445.png");
+	width: 400px;
+	height: 445px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig3 {
+	display: block;
+	background-image: url("fig3_505x328.png");
+	width: 505px;
+	height: 328px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig4 {
+	display: block;
+	background-image: url("fig4_481x940.png");
+	width: 481px;
+	height: 940px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
 .cim20 {
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 20px;
@@ -126,14 +163,14 @@ margin-top: 0px;
 	margin: 0px;
 	padding: 0px;
 	margin-bottom: 0px;
-	height: 34px;
+	height: 38px;
 	float: left;
 }
 .menu ul a {
 	display: block;
 	padding: 0px;
 	width: 170px;
-	height: 34px;
+	height: 38px;
 }
 .menu ul a span {
 }
@@ -144,8 +181,8 @@ margin-top: 0px;
 	text-decoration: none;
 	padding-left: 20px !important;
 	width: 150px !important;
-	padding-top: 8px !important;
-	height: 26px !important;
+	padding-top: 9px !important;
+	height: 29px !important;
 }
 .menulink a:hover {
 	text-decoration: none;
@@ -157,8 +194,8 @@ margin-top: 0px;
 	text-decoration: none;
 	padding-left: 27px !important;
 	width: 143px !important;
-	padding-top: 2px !important;
-	height: 32px !important;
+	padding-top: 3px !important;
+	height: 35px !important;
 }
 .menulink_selected a:hover {
 	text-decoration: none;
@@ -171,8 +208,8 @@ margin-top: 0px;
 	text-decoration: none;
 	padding-left: 27px !important;
 	width: 143px !important;
-	padding-top: 2px !important;
-	height: 32px !important;
+	padding-top: 3px !important;
+	height: 35px !important;
 }
 .menulink_select a:hover {
 	text-decoration: none;
