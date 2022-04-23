@@ -4,7 +4,7 @@ margin-top: 0px;
 }
 .fig2 {
 	display: block;
-	background-image: url("fig2_400x445.png");
+	background-image: url("images/fig2_400x445.png");
 	width: 400px;
 	height: 445px;
 	float: right;
@@ -16,7 +16,7 @@ margin-top: 0px;
 }
 .fig3 {
 	display: block;
-	background-image: url("fig3_505x328.png");
+	background-image: url("images/fig3_505x328.png");
 	width: 505px;
 	height: 328px;
 	float: right;
@@ -28,9 +28,35 @@ margin-top: 0px;
 }
 .fig4 {
 	display: block;
-	background-image: url("fig4_481x940.png");
+	background-image: url("images/fig4_481x940.png");
 	width: 481px;
 	height: 940px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig5 {
+	display: block;
+	background-image: url("images/fig5_350x251.png");
+	width: 350px;
+	height: 251px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig6 {
+	display: block;
+	background-image: url("images/fig6_505x359.png");
+	width: 505px;
+	height: 359px;
 	float: right;
 	border: 15px solid;
 	border-width: 15px;
