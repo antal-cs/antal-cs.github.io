@@ -65,6 +65,121 @@ margin-top: 0px;
 	margin-left: 15px;
 	margin-bottom: 15px;
 }
+.fig7 {
+	display: block;
+	background-image: url("images/fig7_505x392.png");
+	width: 505px;
+	height: 392px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig8 {
+	display: block;
+	background-image: url("images/fig8_700x438.png");
+	width: 700px;
+	height: 438px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.fig9 {
+	display: block;
+	background-image: url("images/fig9_550x228.png");
+	width: 550px;
+	height: 228px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig10 {
+	display: block;
+	background-image: url("images/fig10_550x271.png");
+	width: 550px;
+	height: 271px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig11 {
+	display: block;
+	background-image: url("images/fig11_550x293.png");
+	width: 550px;
+	height: 293px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig12 {
+	display: block;
+	background-image: url("images/fig12_540x378.png");
+	width: 540px;
+	height: 378px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig13 {
+	display: block;
+	background-image: url("images/fig13_440x174.png");
+	width: 440px;
+	height: 174px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig14 {
+	display: block;
+	background-image: url("images/fig14_440x626.png");
+	width: 440px;
+	height: 626px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
+.fig15 {
+	display: block;
+	background-image: url("images/fig15_540x318.png");
+	width: 540px;
+	height: 318px;
+	float: right;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 25px;
+	margin-left: 15px;
+	margin-bottom: 15px;
+}
 .cim20 {
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 20px;
@@ -147,6 +262,13 @@ margin-top: 0px;
 	font-style: normal;
 	text-align: left;
 	line-height: 140%;
+}
+.research15fix {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	text-align: left;
+	line-height: 21px;
 }
 .read_more {
 	font-family: Arial, Verdana, Helvetica, sans-serif;
