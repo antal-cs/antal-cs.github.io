@@ -180,6 +180,19 @@ margin-top: 0px;
 	margin-left: 15px;
 	margin-bottom: 15px;
 }
+.fig18 {
+	display: block;
+	background-image: url("images/fig18_500x221.png");
+	width: 500px;
+	height: 221px;
+	float: left;
+	border: 15px solid;
+	border-width: 15px;
+	border-color: #F3F3F3;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	align: left;
+}
 .cim20 {
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 20px;
