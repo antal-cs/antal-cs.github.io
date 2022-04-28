@@ -295,6 +295,13 @@ margin-top: 0px;
 	text-align: left;
 	line-height: 21px;
 }
+.news {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	text-align: left;
+	color: #072E7E;
+}
 .read_more {
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 15px;
