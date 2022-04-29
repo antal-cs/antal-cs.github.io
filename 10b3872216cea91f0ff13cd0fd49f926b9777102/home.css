@@ -218,6 +218,14 @@ margin-top: 0px;
 	text-align: left;
 	color: #072E7E;
 }
+.publications {
+	font-family: Arial, Verdana, Helvetica, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	text-align: left;
+	color: #072E7E;
+	line-height: 28px;
+}
 .cim_research {
 	font-family: Arial, Verdana, Helvetica, sans-serif;
 	font-size: 30px;
